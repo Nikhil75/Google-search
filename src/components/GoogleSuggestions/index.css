@@ -1,0 +1,11 @@
+.list-items {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow {
+  height: 2vh;
+}
+button {
+  border-width: 0px;
+  background-color: transparent;
+}
